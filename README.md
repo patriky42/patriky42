@@ -31,6 +31,8 @@
 
 
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=patriky42&theme=minimal"/>
+
+
 </p>
 
 
